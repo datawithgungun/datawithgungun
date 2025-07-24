@@ -9,7 +9,7 @@
 
 ## 📌 About Me
 
-Hello! I'm **Gungun**, a passionate and curious **Data Analyst** from Nagpur. I enjoy transforming raw data into meaningful insights using tools like **SQL, Python, Excel**, and **Power BI**. I'm currently building my portfolio through real-world projects and an internship at **Zaapkode Solutions**.
+Hello! I'm **Gungun**, a passionate and curious **Data Analyst** from Nagpur. I enjoy transforming raw data into meaningful insights using tools like **SQL, Python, Excel**, and **Power BI**. I'm currently building my portfolio through real-world projects and an internship at **Zappkode Solutions**.
 
 ---
 
