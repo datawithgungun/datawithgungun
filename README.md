@@ -9,7 +9,7 @@
 
 ## 📌 About Me
 
-Hello! I'm **Gungun**, a passionate and curious **Data Analyst** from Nagpur. I enjoy transforming raw data into meaningful insights using tools like **SQL, Python, Excel**, and **Power BI**. I'm currently building my portfolio through real-world projects and an internship at **Zapkode Solutions**.
+Hello! I'm **Gungun**, a passionate and curious **Data Analyst** from Nagpur. I enjoy transforming raw data into meaningful insights using tools like **SQL, Python, Excel**, and **Power BI**. I'm currently building my portfolio through real-world projects and an internship at **Zaapkode Solutions**.
 
 ---
 
@@ -25,7 +25,6 @@ Hello! I'm **Gungun**, a passionate and curious **Data Analyst** from Nagpur. I 
 ## 💼 Projects
 
 * **📊 E-commerce Store Analysis** – Sales performance dashboard using Power BI & Excel
-* **📱 Smart Emergency Alert Band** – Arduino-based standalone emergency device with GSM/GPS
 * **📁 Contact Book Management System** – Python + MySQL CLI app for managing contacts
 * **📈 HR Data Analysis** – SQL-based insights on HR metrics
 * **🎓 Student Record System** – Student data management using Python & MySQL
